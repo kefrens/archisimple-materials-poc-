@@ -4,9 +4,14 @@
   "type": "module",
   "scripts": {
     "fetch:polyhaven": "tsx scripts/fetch-polyhaven.ts",
-    "build:catalog": "tsx scripts/build-library.ts"
+    "normalize": "tsx scripts/normalize-material.ts",
+    "build:catalog": "tsx scripts/build-library.ts",
+    "validate": "tsx scripts/build-library.ts --check",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@types/node": "^26.4.1",
+    "sharp": "^0.35.4",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }
