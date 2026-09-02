@@ -1,4 +1,453 @@
 {
   "version": 1,
-  "materials": []
+  "generatedAt": "2026-09-02T20:19:59.644Z",
+  "count": 12,
+  "materials": [
+    {
+      "id": "brick-red-01",
+      "name": "Red Brick",
+      "category": "brick",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "red_brick",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/red_brick",
+        "authors": {
+          "Rob Tuytel": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 16K texture of red brick wall with rough, weathered surfaces, varied warm tones and recessed grey mortar, strong surface detail and subtle chipped edges.",
+      "physicalSize": {
+        "width": 1.4,
+        "height": 1.4,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "brick",
+        "bricks",
+        "wall",
+        "red brick",
+        "brick wall",
+        "rough",
+        "exterior"
+      ]
+    },
+    {
+      "id": "brick-wall-01",
+      "name": "Brick Wall 001",
+      "category": "brick",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "brick_wall_001",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/brick_wall_001",
+        "authors": {
+          "Rob Tuytel": "Processing",
+          "Dimitrios Savva": "Photography"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K texture of a red, rough industrial brick wall with baked-in grime, chipped edges, varied mortar tones and pronounced surface relief.",
+      "physicalSize": {
+        "width": 3,
+        "height": 3,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "red",
+        "rough",
+        "industrial",
+        "plain",
+        "baked"
+      ]
+    },
+    {
+      "id": "concrete-floor-02",
+      "name": "Concrete Floor 02",
+      "category": "concrete",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "concrete_floor_02",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/concrete_floor_02",
+        "authors": {
+          "Rob Tuytel": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K concrete texture showing a rough, weathered floor with moss-stained, dirty gray-brown surface, subtle pitting, scuffs and worn patches.",
+      "physicalSize": {
+        "width": 2,
+        "height": 2,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "rough",
+        "moss",
+        "plain"
+      ]
+    },
+    {
+      "id": "concrete-floor-worn-01",
+      "name": "Concrete Floor Worn 001",
+      "category": "concrete",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "concrete_floor_worn_001",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/concrete_floor_worn_001",
+        "authors": {
+          "Dimitrios Savva": "Photography",
+          "Rico Cilliers": "Processing"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 16K concrete floor texture, worn grey slab with fine scratches, chips, stains and subtle roughness and discoloration.",
+      "physicalSize": {
+        "width": 3,
+        "height": 3,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "worn",
+        "old",
+        "plain",
+        "grey",
+        "weathered",
+        "bare",
+        "discolored"
+      ]
+    },
+    {
+      "id": "plaster-beige-01",
+      "name": "Beige Wall 001",
+      "category": "plaster",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "beige_wall_001",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/beige_wall_001",
+        "authors": {
+          "Dimitrios Savva": "Photography",
+          "Rico Cilliers": "Processing"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 16K texture of smooth beige painted plaster with subtle grain and a matte finish, showing soft color variation and surface blemishes.",
+      "physicalSize": {
+        "width": 3,
+        "height": 3,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "beige",
+        "painted",
+        "smooth",
+        "suburb",
+        "house",
+        "home"
+      ]
+    },
+    {
+      "id": "plaster-grey-01",
+      "name": "Grey Plaster",
+      "category": "plaster",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "grey_plaster",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/grey_plaster",
+        "authors": {
+          "Rob Tuytel": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K texture of grey plaster with subtle mossing and weathered, porous surface - rough, matte finish with soft discoloration and fine granular detail.",
+      "physicalSize": {
+        "width": 1,
+        "height": 1,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "moss",
+        "plain",
+        "bare"
+      ]
+    },
+    {
+      "id": "stone-marble-01",
+      "name": "Marble 01",
+      "category": "stone",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "marble_01",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/marble_01",
+        "authors": {
+          "Rob Tuytel": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K marble texture of smooth, even cream-beige tiles with subtle veining and low sheen, clean indoor floor and wall material.",
+      "physicalSize": {
+        "width": 1.5,
+        "height": 1.5,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "marble",
+        "smooth",
+        "even",
+        "tiles"
+      ]
+    },
+    {
+      "id": "stone-slate-tiles-01",
+      "name": "Stone Tiles 02",
+      "category": "stone",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "stone_tiles_02",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/stone_tiles_02",
+        "authors": {
+          "Charlotte Baglioni": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K stone tile texture featuring uneven slate slabs, rough chiseled surfaces, defined grout joints and subtle weathering, with natural color variation.",
+      "physicalSize": {
+        "width": 2,
+        "height": 2,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "uneven",
+        "rock",
+        "stones",
+        "stone",
+        "floor",
+        "tiles",
+        "rocks",
+        "slates"
+      ]
+    },
+    {
+      "id": "tile-glazed-floor-01",
+      "name": "Tiled Floor 001",
+      "category": "tile",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "tiled_floor_001",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/tiled_floor_001",
+        "authors": {
+          "Rob Tuytel": "Processing",
+          "Dimitrios Savva": "Photography"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K material of large square ceramic tiles with warm brown tones, smooth but slightly uneven faces, thin recessed grout lines and subtle wear with fine micro-roughness.",
+      "physicalSize": {
+        "width": 1.5,
+        "height": 1.5,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "tiles",
+        "clean",
+        "uneven",
+        "smooth",
+        "square",
+        "large"
+      ]
+    },
+    {
+      "id": "tile-quarry-floor-01",
+      "name": "Floor Tiles 08",
+      "category": "tile",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "floor_tiles_08",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/floor_tiles_08",
+        "authors": {
+          "Rob Tuytel": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K texture of beige ceramic square tiles in a regular grid, matte finish with subtle wear, shallow grout lines, tiny chips and fine surface roughness.",
+      "physicalSize": {
+        "width": 1.5,
+        "height": 1.5,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "tiles",
+        "square",
+        "ceramic",
+        "regular",
+        "grid",
+        "beige"
+      ]
+    },
+    {
+      "id": "wood-floor-01",
+      "name": "Wood Floor",
+      "category": "wood",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "wood_floor",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/wood_floor",
+        "authors": {
+          "Dimitrios Savva": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K material: warm medium-brown wood floor texture with narrow planks, visible oak grain, subtle seams and a smooth satin finish.",
+      "physicalSize": {
+        "width": 1.7,
+        "height": 1.7,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "wood",
+        "floor",
+        "wooden",
+        "wooden flooring ",
+        "grain",
+        "wood grain",
+        "interior design",
+        "interior",
+        "flooring"
+      ]
+    },
+    {
+      "id": "wood-plywood-01",
+      "name": "Plywood",
+      "category": "wood",
+      "source": {
+        "provider": "polyhaven",
+        "asset": "plywood",
+        "license": "CC0",
+        "url": "https://polyhaven.com/a/plywood",
+        "authors": {
+          "Rob Tuytel": "All"
+        }
+      },
+      "preview": "preview.webp",
+      "description": "Free 8K plywood texture, light warm-brown with smooth, even, continuous linear grain and a flat, low-sheen raw wood surface.",
+      "physicalSize": {
+        "width": 0.5,
+        "height": 0.5,
+        "unit": "m"
+      },
+      "maps": {
+        "baseColor": "maps/basecolor.webp",
+        "normal": "maps/normal.webp",
+        "roughness": "maps/roughness.webp",
+        "height": "maps/height.webp",
+        "ambientOcclusion": "maps/ao.webp"
+      },
+      "resolution": "2k",
+      "tags": [
+        "clean",
+        "even",
+        "smooth",
+        "flat",
+        "continuous",
+        "consistent"
+      ]
+    }
+  ]
 }
