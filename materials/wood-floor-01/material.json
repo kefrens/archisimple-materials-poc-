@@ -1,0 +1,40 @@
+{
+  "id": "wood-floor-01",
+  "name": "Wood Floor",
+  "category": "wood",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "wood_floor",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/wood_floor",
+    "authors": {
+      "Dimitrios Savva": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K material: warm medium-brown wood floor texture with narrow planks, visible oak grain, subtle seams and a smooth satin finish.",
+  "physicalSize": {
+    "width": 1.7,
+    "height": 1.7,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "wood",
+    "floor",
+    "wooden",
+    "wooden flooring ",
+    "grain",
+    "wood grain",
+    "interior design",
+    "interior",
+    "flooring"
+  ]
+}

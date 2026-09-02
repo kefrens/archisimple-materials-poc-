@@ -4,3 +4,8 @@ dist/
 
 # Downloaded / generated material payloads during ingestion
 .tmp/
+
+# Generated texture maps. The pipeline is deterministic, so these are rebuilt
+# from materials/polyhaven-selection.json with `npm run normalize`.
+materials/*/maps/
+materials/*/preview.webp

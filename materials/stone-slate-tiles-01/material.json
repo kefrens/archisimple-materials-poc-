@@ -1,0 +1,39 @@
+{
+  "id": "stone-slate-tiles-01",
+  "name": "Stone Tiles 02",
+  "category": "stone",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "stone_tiles_02",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/stone_tiles_02",
+    "authors": {
+      "Charlotte Baglioni": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K stone tile texture featuring uneven slate slabs, rough chiseled surfaces, defined grout joints and subtle weathering, with natural color variation.",
+  "physicalSize": {
+    "width": 2,
+    "height": 2,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "uneven",
+    "rock",
+    "stones",
+    "stone",
+    "floor",
+    "tiles",
+    "rocks",
+    "slates"
+  ]
+}

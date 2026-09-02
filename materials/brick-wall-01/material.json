@@ -1,0 +1,37 @@
+{
+  "id": "brick-wall-01",
+  "name": "Brick Wall 001",
+  "category": "brick",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "brick_wall_001",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/brick_wall_001",
+    "authors": {
+      "Rob Tuytel": "Processing",
+      "Dimitrios Savva": "Photography"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K texture of a red, rough industrial brick wall with baked-in grime, chipped edges, varied mortar tones and pronounced surface relief.",
+  "physicalSize": {
+    "width": 3,
+    "height": 3,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "red",
+    "rough",
+    "industrial",
+    "plain",
+    "baked"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "stone-marble-01",
+  "name": "Marble 01",
+  "category": "stone",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "marble_01",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/marble_01",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K marble texture of smooth, even cream-beige tiles with subtle veining and low sheen, clean indoor floor and wall material.",
+  "physicalSize": {
+    "width": 1.5,
+    "height": 1.5,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "marble",
+    "smooth",
+    "even",
+    "tiles"
+  ]
+}

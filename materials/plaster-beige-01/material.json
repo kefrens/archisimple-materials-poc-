@@ -1,0 +1,38 @@
+{
+  "id": "plaster-beige-01",
+  "name": "Beige Wall 001",
+  "category": "plaster",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "beige_wall_001",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/beige_wall_001",
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 16K texture of smooth beige painted plaster with subtle grain and a matte finish, showing soft color variation and surface blemishes.",
+  "physicalSize": {
+    "width": 3,
+    "height": 3,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "beige",
+    "painted",
+    "smooth",
+    "suburb",
+    "house",
+    "home"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "concrete-floor-02",
+  "name": "Concrete Floor 02",
+  "category": "concrete",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "concrete_floor_02",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/concrete_floor_02",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K concrete texture showing a rough, weathered floor with moss-stained, dirty gray-brown surface, subtle pitting, scuffs and worn patches.",
+  "physicalSize": {
+    "width": 2,
+    "height": 2,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "rough",
+    "moss",
+    "plain"
+  ]
+}

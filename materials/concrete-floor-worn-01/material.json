@@ -1,0 +1,39 @@
+{
+  "id": "concrete-floor-worn-01",
+  "name": "Concrete Floor Worn 001",
+  "category": "concrete",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "concrete_floor_worn_001",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/concrete_floor_worn_001",
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 16K concrete floor texture, worn grey slab with fine scratches, chips, stains and subtle roughness and discoloration.",
+  "physicalSize": {
+    "width": 3,
+    "height": 3,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "worn",
+    "old",
+    "plain",
+    "grey",
+    "weathered",
+    "bare",
+    "discolored"
+  ]
+}

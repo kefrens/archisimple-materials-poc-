@@ -1,0 +1,38 @@
+{
+  "id": "brick-red-01",
+  "name": "Red Brick",
+  "category": "brick",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "red_brick",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/red_brick",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 16K texture of red brick wall with rough, weathered surfaces, varied warm tones and recessed grey mortar, strong surface detail and subtle chipped edges.",
+  "physicalSize": {
+    "width": 1.4,
+    "height": 1.4,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "brick",
+    "bricks",
+    "wall",
+    "red brick",
+    "brick wall",
+    "rough",
+    "exterior"
+  ]
+}

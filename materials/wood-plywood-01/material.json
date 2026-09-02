@@ -1,0 +1,37 @@
+{
+  "id": "wood-plywood-01",
+  "name": "Plywood",
+  "category": "wood",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "plywood",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/plywood",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K plywood texture, light warm-brown with smooth, even, continuous linear grain and a flat, low-sheen raw wood surface.",
+  "physicalSize": {
+    "width": 0.5,
+    "height": 0.5,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "clean",
+    "even",
+    "smooth",
+    "flat",
+    "continuous",
+    "consistent"
+  ]
+}

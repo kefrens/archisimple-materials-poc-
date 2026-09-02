@@ -1,0 +1,38 @@
+{
+  "id": "tile-glazed-floor-01",
+  "name": "Tiled Floor 001",
+  "category": "tile",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "tiled_floor_001",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/tiled_floor_001",
+    "authors": {
+      "Rob Tuytel": "Processing",
+      "Dimitrios Savva": "Photography"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K material of large square ceramic tiles with warm brown tones, smooth but slightly uneven faces, thin recessed grout lines and subtle wear with fine micro-roughness.",
+  "physicalSize": {
+    "width": 1.5,
+    "height": 1.5,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "tiles",
+    "clean",
+    "uneven",
+    "smooth",
+    "square",
+    "large"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "plaster-grey-01",
+  "name": "Grey Plaster",
+  "category": "plaster",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "grey_plaster",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/grey_plaster",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K texture of grey plaster with subtle mossing and weathered, porous surface - rough, matte finish with soft discoloration and fine granular detail.",
+  "physicalSize": {
+    "width": 1,
+    "height": 1,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "moss",
+    "plain",
+    "bare"
+  ]
+}

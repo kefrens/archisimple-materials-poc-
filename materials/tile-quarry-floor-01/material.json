@@ -1,0 +1,37 @@
+{
+  "id": "tile-quarry-floor-01",
+  "name": "Floor Tiles 08",
+  "category": "tile",
+  "source": {
+    "provider": "polyhaven",
+    "asset": "floor_tiles_08",
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/floor_tiles_08",
+    "authors": {
+      "Rob Tuytel": "All"
+    }
+  },
+  "preview": "preview.webp",
+  "description": "Free 8K texture of beige ceramic square tiles in a regular grid, matte finish with subtle wear, shallow grout lines, tiny chips and fine surface roughness.",
+  "physicalSize": {
+    "width": 1.5,
+    "height": 1.5,
+    "unit": "m"
+  },
+  "maps": {
+    "baseColor": "maps/basecolor.webp",
+    "normal": "maps/normal.webp",
+    "roughness": "maps/roughness.webp",
+    "height": "maps/height.webp",
+    "ambientOcclusion": "maps/ao.webp"
+  },
+  "resolution": "2k",
+  "tags": [
+    "tiles",
+    "square",
+    "ceramic",
+    "regular",
+    "grid",
+    "beige"
+  ]
+}
